@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://scontent-qro1-2.cdninstagram.com/v/t51.2885-19/357666643_795980032175342_7839500650039775012_n.jpg?stp=dst-jpg_s320x320&_nc_ht=scontent-qro1-2.cdninstagram.com&_nc_cat=102&_nc_ohc=VWOeKgeH2tMAX_cqrxd&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfD8ZBgXD70FrDDoxao3-5s5_7wwEoXPF16FyDH4vdFTgQ&oe=64BD34CF&_nc_sid=8b3546" title="XAML" alt="XAML" width="280" height="280" />&nbsp;
-</div>
 <h1 align="center">Hi!, I'm Fernando Nicolás 👋</h1>
 
 <div id="header" align="center">
