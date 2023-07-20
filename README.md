@@ -5,7 +5,7 @@
 </div>
 
 <div id="badges" align=center>
-  <p>I'm 20 years old, I'm from Mexico. I study Software Engineering at UAEH and I'm specializing in being a Full-Stack developer, I'm a self-taught and creative person. I really like to develop programs with easy to use interfaces.
+  <p>I am 20 years old, I am from Mexico. I'm study Software Engineering at UAEH and I'm specializing in being a Full-Stack developer, I'm a self-taught and creative person. I really like to develop programs with easy to use interfaces.
 </p>
   <a href="https://www.linkedin.com/in/fernando-hern%C3%A1ndez-nicol%C3%A1s-a17922273/" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/build-Fernando%20Hern%C3%A1ndez%20Nicol%C3%A1s-brightgreen?style=flat&logo=linkedin&logoColor=black&label=LinkedIn&labelColor=white&color=blue">
