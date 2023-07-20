@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://scontent-qro1-2.cdninstagram.com/v/t51.2885-19/357666643_795980032175342_7839500650039775012_n.jpg?stp=dst-jpg_s320x320&_nc_ht=scontent-qro1-2.cdninstagram.com&_nc_cat=102&_nc_ohc=VWOeKgeH2tMAX_cqrxd&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfD8ZBgXD70FrDDoxao3-5s5_7wwEoXPF16FyDH4vdFTgQ&oe=64BD34CF&_nc_sid=8b3546" title="XAML" alt="XAML" width="280" height="280" />&nbsp;
+</div>
 <h1 align="center">Hi!, I'm Fernando Nicolás 👋</h1>
 
 <div id="header" align="center">
@@ -34,12 +37,18 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML" alt="HTML" width="45" height="45" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="45" height="45" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="45" height="45" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="45" height="45" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angular" alt="Angular" width="45" height="45" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="45" height="45" />&nbsp;
     <img src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67" title="CSharp" alt="CSharp" width="45" height="45" />&nbsp;
     <img src="https://user-images.githubusercontent.com/16964652/66596008-f4e3ed80-eb50-11e9-9a8a-3e9a5adf4d7c.png" title="XAML" alt="XAML" width="45" height="45" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="45" height="45" />&nbsp;
     <img src="https://github.com/JetBrains/logos/blob/master/web/intellij-idea/intellij-idea.svg" title="Idea" alt="Idea" width="45" height="45" />&nbsp;
-    <img src="https://github.com/JetBrains/logos/blob/master/web/intellij-idea/intellij-idea.svg" title="Idea" alt="Idea" width="45" height="45" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45" />&nbsp;
+  </div>
+  <br />
+  <div align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="45" height="45" />&nbsp;
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968409.png" title="SQLServer" alt="SQLServer" width="45" height="45" />&nbsp;
+    <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" title="Cpp" alt="Cpp" width="45" height="45" />&nbsp;
   </div>
 </div>
