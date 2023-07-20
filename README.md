@@ -13,6 +13,7 @@
   <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=fernicolas117@gmail.com&su=Asunto%20del%20correo&body=Cuerpo%20del%20correo" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/build-FerNicolas117%40gmail.com-brightgreen?style=flat&logo=gmail&logoColor=black&label=Gmail&labelColor=white&color=blue">
   </a>
+  <br />
    <a href="https://instagram.com/fernando_nic_117?igshid=MzNlNGNkZWQ4Mg==" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/build-Fernando%20Nicol%C3%A1s-brightgreen?style=flat&logo=instagram&logoColor=black&label=Instagram&labelColor=white&color=blue">
   </a>
