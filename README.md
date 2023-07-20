@@ -1,7 +1,12 @@
 <h1 align="center">Hi!, I'm Fernando Nicolás 👋</h1>
 
 <div id="header" align="center">
-  <h3>Software Engineering Student &lt;/&gt;</h3>  
+  <h3>Software Engineer &lt;/&gt;</h3>  
+</div>
+
+<div id="badges" align=center>
+  <p>I am 20 years old, I am from Mexico. I am studying Software Engineering at UAEH. I am specializing in being a Full-Stack developer, I am a self-taught and creative person. I really like to develop programs with easy to use interfaces.
+</p>
 </div>
 <!--
 **FerNicolas117/FerNicolas117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
