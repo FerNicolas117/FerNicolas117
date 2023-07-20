@@ -48,5 +48,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="45" height="45" />&nbsp;
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968409.png" title="SQLServer" alt="SQLServer" width="45" height="45" />&nbsp;
     <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" title="Cpp" alt="Cpp" width="45" height="45" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="45" height="45" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="45" height="45" />&nbsp;
   </div>
 </div>
