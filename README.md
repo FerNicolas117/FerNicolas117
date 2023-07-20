@@ -7,7 +7,7 @@
 <div id="badges" align=center>
   <p>I am 20 years old, I am from Mexico. I am studying Software Engineering at UAEH. I am specializing in being a Full-Stack developer, I am a self-taught and creative person. I really like to develop programs with easy to use interfaces.
 </p>
-  <a href="www.linkedin.com/in/fernando-hernandez-nicolas" target="_blank">
+  <a href="https://www.linkedin.com/in/fernando-hern%C3%A1ndez-nicol%C3%A1s-a17922273/" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/build-Fernando%20Hern%C3%A1ndez%20Nicol%C3%A1s-brightgreen?style=flat&logo=linkedin&logoColor=black&label=LinkedIn&labelColor=white&color=blue">
   </a>
   <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=fernicolas117@gmail.com&su=Asunto%20del%20correo&body=Cuerpo%20del%20correo" target="_blank">
