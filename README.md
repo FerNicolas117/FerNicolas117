@@ -30,7 +30,7 @@
 - Hobbies: I like to play drums and percussion.
 
 ### Technologies and tools:
-<div align="center">
+<div align="left">
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML" alt="HTML" width="45" height="45" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="45" height="45" />&nbsp;
@@ -44,7 +44,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45" />&nbsp;
   </div>
   <br />
-  <div align="center">
+  <div align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="45" height="45" />&nbsp;
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968409.png" title="SQLServer" alt="SQLServer" width="45" height="45" />&nbsp;
     <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" title="Cpp" alt="Cpp" width="45" height="45" />&nbsp;
