@@ -26,8 +26,8 @@
 ### More about me:
 
 - I am currently working on a payment and document management system for the citizens of a community.
-- I am currently learning Spring Boot, Angular and React.
-- Hobbies: I like to play drums and percussion.gular 
+- I am currently learning Spring Boot and Angular. 
+- Hobbies: I like to play drums and percussion. 🥁🎶 
 
 ### Technologies and tools:
 <div align="left">
