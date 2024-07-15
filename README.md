@@ -31,23 +31,27 @@
 
 ### Technologies and tools:
 <div align="left">
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML" alt="HTML" width="45" height="45" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="45" height="45" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="45" height="45" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="45" height="45" />&nbsp;
-    <img src="https://user-images.githubusercontent.com/16964652/66596008-f4e3ed80-eb50-11e9-9a8a-3e9a5adf4d7c.png" title="XAML" alt="XAML" width="45" height="45" />&nbsp;
+<!--   <div> -->
+<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML" alt="HTML" width="45" height="45" />&nbsp; -->
+<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="45" height="45" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="45" height="45" />&nbsp; -->
+<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="45" height="45" />&nbsp;
+    <img src="https://user-images.githubusercontent.com/16964652/66596008-f4e3ed80-eb50-11e9-9a8a-3e9a5adf4d7c.png" title="XAML" alt="XAML" width="45" height="45" />&nbsp; -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="45" height="45" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="45" height="45" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="45" height="45" />&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/hibernate/hibernate-original.svg" title="Hibernate" alt="Hibernate" width="45" height="45" />&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/maven/maven-original.svg" title="Maven" alt="Maven" width="45" height="45" />&nbsp;
     <img src="https://github.com/JetBrains/logos/blob/master/web/intellij-idea/intellij-idea.svg" title="Idea" alt="Idea" width="45" height="45" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="45" height="45" />&nbsp;
-  </div>
-  <br />
-  <div align="left">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968409.png" title="SQLServer" alt="SQLServer" width="45" height="45" />&nbsp;
     <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" title="Cpp" alt="Cpp" width="45" height="45" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="45" height="45" />&nbsp;
+<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45" />&nbsp; -->
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="45" height="45" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="45" height="45" />&nbsp;
+<!--   </div> -->
+<!--   <br /> -->
+<!--   <div align="left"> -->
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968409.png" title="SQLServer" alt="SQLServer" width="45" height="45" />&nbsp;
+<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="45" height="45" />&nbsp; -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="45" height="45" />&nbsp;
   </div>
 </div>
