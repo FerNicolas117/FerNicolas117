@@ -38,15 +38,15 @@
 <!--     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="45" height="45" />&nbsp;
     <img src="https://user-images.githubusercontent.com/16964652/66596008-f4e3ed80-eb50-11e9-9a8a-3e9a5adf4d7c.png" title="XAML" alt="XAML" width="45" height="45" />&nbsp; -->
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Angular-Dark.svg" title="Angular" alt="Angular" width="45" height="45" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="45" height="45" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="45" height="45" />&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/hibernate/hibernate-original.svg" title="Hibernate" alt="Hibernate" width="45" height="45" />&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/maven/maven-original.svg" title="Maven" alt="Maven" width="45" height="45" />&nbsp;
-    <img src="https://github.com/JetBrains/logos/blob/master/web/intellij-idea/intellij-idea.svg" title="Idea" alt="Idea" width="45" height="45" />&nbsp;
-    <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" title="Cpp" alt="Cpp" width="45" height="45" />&nbsp;
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" title="Java" alt="Java" width="45" height="45" />&nbsp;
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring-Dark.svg" title="Spring" alt="Spring" width="45" height="45" />&nbsp;
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Hibernate-Dark.svg" title="Hibernate" alt="Hibernate" width="45" height="45" />&nbsp;
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Maven-Dark.svg" title="Maven" alt="Maven" width="45" height="45" />&nbsp;
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" title="Idea" alt="Idea" width="45" height="45" />&nbsp;
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="Cpp" alt="Cpp" width="45" height="45" />&nbsp;
 <!--     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45" />&nbsp; -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="45" height="45" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="45" height="45" />&nbsp;
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="MySQL" alt="MySQL" width="45" height="45" />&nbsp;
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="45" height="45" />&nbsp;
 <!--   </div> -->
 <!--   <br /> -->
 <!--   <div align="left"> -->
