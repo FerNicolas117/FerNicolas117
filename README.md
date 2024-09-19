@@ -52,6 +52,6 @@
 <!--   <div align="left"> -->
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968409.png" title="SQLServer" alt="SQLServer" width="45" height="45" />&nbsp;
 <!--     <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="45" height="45" />&nbsp; -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="45" height="45" />&nbsp;
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" title="Figma" alt="Figma" width="45" height="45" />&nbsp;
   </div>
 </div>
